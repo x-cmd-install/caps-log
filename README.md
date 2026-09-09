@@ -7,7 +7,7 @@ A small TUI journaling tool. 📖
 - **Latest release**: `1.2.1` (2024-11-29)
 - **Last commit**: 2026-07-13
 - **License**: MIT
-- **Stars**: 400 · **Forks**: 12 · **Open issues**: 24 · **Contributors**: 3
+- **Stars**: 400 · **Forks**: 13 · **Open issues**: 24 · **Contributors**: 3
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/caps-log> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:32:43Z._
+_Last regenerated: 2026-09-09T05:31:25Z._
