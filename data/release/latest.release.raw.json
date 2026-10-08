@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2355083,
       "digest": null,
-      "download_count": 533,
+      "download_count": 537,
       "created_at": "2024-11-29T16:09:59Z",
       "updated_at": "2024-11-29T16:09:59Z",
       "browser_download_url": "https://github.com/NikolaDucak/caps-log/releases/download/1.2.1/caps-log-linux.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2351386,
       "digest": null,
-      "download_count": 45,
+      "download_count": 46,
       "created_at": "2024-11-29T16:10:01Z",
       "updated_at": "2024-11-29T16:10:02Z",
       "browser_download_url": "https://github.com/NikolaDucak/caps-log/releases/download/1.2.1/caps-log-macos.tar.gz"
