@@ -37,7 +37,7 @@ x install caps-log
 
 ## 流行度
 
-- **Star**: 411 · **Fork**: 16 · **开放 issue**: 24 · **贡献者**: 3
+- **Star**: 412 · **Fork**: 16 · **开放 issue**: 24 · **贡献者**: 3
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install caps-log
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 0 | 3 | 1 | 0 | 1 | 3 |
-| 360d | 2025-11-21 | 0 | 8 | 1 | 0 | 3 | 8 |
-| last720d | 2024-11-26 | 1 | 22 | 1 | 2 | 7 | 23 |
+| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 0 | 3 | 1 | 0 | 1 | 3 |
+| 360d | 2025-11-22 | 0 | 8 | 1 | 0 | 3 | 8 |
+| last720d | 2024-11-27 | 1 | 22 | 1 | 2 | 7 | 23 |
 
 ## Release 资产
 
@@ -60,10 +60,6 @@ x install caps-log
 |------|-----:|----------|
 | [caps-log-linux.tar.gz](https://github.com/NikolaDucak/caps-log/releases/download/1.2.1/caps-log-linux.tar.gz) | 2.2 MiB | `native/unknown` |
 | [caps-log-macos.tar.gz](https://github.com/NikolaDucak/caps-log/releases/download/1.2.1/caps-log-macos.tar.gz) | 2.2 MiB | `native/darwin/x64` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/caps-log) 上共有 **5** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -74,4 +70,4 @@ caps-log 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:29:26Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T10:55:23Z._
